@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Bos Eriko's Anime Blog`,
-    author: `Bos Eriko`,
+    title: `Bos Eriko's Anime Reviews`,
+    author: `Bos Eriko Reyes`,
     description: `My random thoughts written in words.`,
-    siteUrl: `https://boseriko.com/`,
+    siteUrl: `https://anime.boseriko.blog/`,
     social: {
       twitter: `BosAnimeReviews`,
     },
